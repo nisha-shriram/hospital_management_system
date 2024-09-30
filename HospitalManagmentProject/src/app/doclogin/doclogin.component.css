@@ -1,0 +1,14 @@
+.card{
+    border: none;
+    border-radius: 30px;
+    width: 500px;
+    padding: 40px;
+    top: 40px;
+    left: 30px;
+    transform: translate(30px,-25px);
+    background: pink;
+    justify-content: center;
+    color: black;
+    justify-items: center;
+    box-shadow: 10px 10px 10px rgba(165, 15, 15, 0.868);
+}
